@@ -1,0 +1,16 @@
+{
+  "//comment": "requirements for organization page",
+
+  "organizationName": "otodeneme",
+  "organizationCode": "OTO",
+  "organizationAddress": "adres alanı",
+  "organizationTaxoffice": "vergi dairesi",
+  "organizationTaxnumber": "1234567890",
+  "organizationCityid" : "43",
+  "userName": "ali",
+  "userSurname": "veli",
+  "userPhonenumber": "5000000000",
+  "userEmail": "aliveli@deneme.com.tr",
+  "userPassword": "RootAdmin123.!",
+  "licenceCredit": "1232"
+}
